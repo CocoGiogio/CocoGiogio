@@ -1,21 +1,21 @@
 <div align="center">
   <h1>Hi there, I'm Giovane (CocoGiogio) 👋</h1>
-  <h3>🚀 Apprenti Ingénieur Réseau & Sécurité @ Capgemini</h3>
-  <p>Master of Science Cybersécurité @ EPSI | Spécialiste Cloud Infrastructure Services</p>
+  <h3>🚀 Network & Security Engineer Apprentice @ Capgemini</h3>
+  <p>MSc in Cybersecurity @ EPSI | Cloud Infrastructure Services Specialist</p>
 </div>
 
 <br>
 
 ---
 
-### 🛡️ About Me
+### 🌱 About Me
 
-Je suis un apprenti passionné 💻 spécialisé dans l'**administration système, réseau et sécurité** 🔒. Actuellement chez **Capgemini** au sein du service Cloud Infrastructure, je protège les infrastructures critiques contre les menaces tout en automatisant les processus d'audit.
+I am a passionate **Network & Security apprentice** 💻 dedicated to protecting critical infrastructures and automating security audits. Currently working within the **Cloud Infrastructure Services** unit at **Capgemini**, I bridge the gap between complex network operations and offensive security auditing.
 
-- 🏗️ **Current Role:** Apprenti Ingénieur Réseau & Sécurité intervenant sur des environnements clients de grande envergure.
-- ⚙️ **Expertise:** Équipes Projet (intégration) & Opérationnelle (gestion d'incidents, méthodes Agile).
-- 🔐 **Past Projects:** Mise en place d'un SIEM chez NATEIS pour Pathé Cinémas (mondial).
-- 🎓 **Education:** MSc Expert en Cybersécurité (EPSI) & BUT Réseaux & Télécoms labellisé **SecNumEdu**.
+- 🏗️ **Current Role:** Engineering Apprentice managing large-scale client environments across Project (Integration) and Operational (Incident Management) teams.
+- ⚙️ **Agile Practitioner:** Active participant in DSTUM and WOM ceremonies to ensure high-efficiency team collaboration.
+- 🔐 **Past Impact:** Implemented a SIEM solution for Pathé Cinemas (Global) and managed NOC operations for worldwide infrastructure.
+- 🎓 **Education:** Master of Science in Cybersecurity and BUT Networks & Telecoms (SecNumEdu certified).
 
 ---
 
@@ -26,19 +26,20 @@ Je suis un apprenti passionné 💻 spécialisé dans l'**administration systèm
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white) 
 ![F5](https://img.shields.io/badge/F5-ED1C24?style=for-the-badge&logo=f5&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-032D26?style=for-the-badge&logo=servicenow&logoColor=white)
-![VPN](https://img.shields.io/badge/IPsec_VPN-Shield-blue?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Programming & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Cybersecurity Tools**
+**Cybersecurity Arsenal**
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-Security-red?style=for-the-badge)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-> **Official Certifications:** > 🎓 **Cisco:** CCNA (ENSA, SRWE, ITN) & Cyber Threat Management  
+> **Official Certifications:**
+> 🎓 **Cisco:** CCNA (Enterprise Networking, Security, and Automation) & Cyber Threat Management  
 > 🎓 **Fortinet:** Certified Associate & Fundamentals Cybersecurity | FortiGate 7.4 Operator  
 > 🎓 **ServiceNow:** Micro-Certification Welcome to ServiceNow
 
@@ -46,9 +47,8 @@ Je suis un apprenti passionné 💻 spécialisé dans l'**administration systèm
 
 ### 🚀 Featured Projects (Aegis Security Suite)
 
-- **[Aegis-ReconScope](https://github.com/CocoGiogio/Aegis-ReconScope)**: Offensive reconnaissance framework (Nmap automation, CVE mapping, Web fuzzing).
-- **[Aegis-SentinelScanner](https://github.com/CocoGiogio/Aegis-SentinelScanner)**: Network compliance auditor for Cisco, Fortinet, and F5 (PSIRT monitoring).
-- **VulnScan-Pro**: Rapid vulnerability assessment scanner written in Python.
+- **[Aegis-ReconScope](https://github.com/CocoGiogio/Aegis-ReconScope)**: An advanced offensive reconnaissance framework. It automates Nmap scans, CVE mapping, and web fuzzing to generate professional executive PDF reports.
+- **[Aegis-SentinelScanner](https://github.com/CocoGiogio/Aegis-SentinelScanner)**: A network compliance auditor that monitors firmware versions for Cisco, Fortinet, and F5 devices to ensure production stability and security.
 
 ---
 
@@ -62,11 +62,11 @@ Je suis un apprenti passionné 💻 spécialisé dans l'**administration systèm
 
 ---
 
-### 📫 Connect with me
+### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/giovane-bomme](https://www.linkedin.com/in/giovane-bomme)
 - **Portfolio:** [cocogiogio.github.io](https://cocogiogio.github.io)
 
 <div align="center">
-  <i>"Protéger, Auditer, Automatiser : Sécuriser les infrastructures de demain."</i>
+  <i>"Secure by design, automated by choice."</i>
 </div>
