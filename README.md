@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm CocoGiogio 👋
 
-<!--
-**CocoGiogio/CocoGiogio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Projects
+* [VulnScan-Pro](https://github.com/CocoGiogio/VulnScan-Pro) - Scanner de vulnérabilités automatisé en Python.
+* [CYBERPULSE](https://github.com/CocoGiogio/CYBERPULSE) - Projet central de monitoring de sécurité.
+* `Recon` - Outil d'énumération et de reconnaissance (Work in progress).
 
-Here are some ideas to get you started:
+## 🌐 Network & Infrastructure
+* [AegisVersion-Sentinel 🛡️](https://github.com/CocoGiogio/AegisVersion-Sentinel) - Audit automatisé de firmwares (Cisco, Fortinet, F5).
+* [RESTONETWORK](https://github.com/CocoGiogio/RESTONETWORK) - Gestion d'infrastructure réseau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic & Others
+* `MSPR-1-PTEROPARK` - Projet d'infrastructure système.
+* `WORKSHOP-M2` - Travaux de Master 2.
