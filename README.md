@@ -1,30 +1,50 @@
-# Hi, I'm CocoGiogio 👋
+# Hi, I'm CocoGiogio 👋 
 
-**Cybersecurity Enthusiast & Network Automation Specialist** Driven by the intersection of infrastructure stability and offensive security. I build tools to automate network audits and streamline vulnerability assessments.
+### 🛡️ Cybersecurity & Network Automation Specialist
 
----
-
-## 🛡️ Cybersecurity Projects
-* **[VulnScan-Pro](https://github.com/CocoGiogio/VulnScan-Pro)** – A professional-grade vulnerability scanner designed for automated security posture assessment.
-* **[CYBERPULSE](https://github.com/CocoGiogio/CYBERPULSE)** – Core project focused on security monitoring and threat detection.
-* **Recon** – *[In Development]* Advanced reconnaissance and enumeration framework.
-
-## 🌐 Network & Infrastructure Automation
-* **[AegisVersion-Sentinel 🛡️](https://github.com/CocoGiogio/AegisVersion-Sentinel)** – Automated auditing tool for network firmware (Cisco, Fortinet, F5) with intelligent upgrade path mapping.
-* **[RestoNetwork](https://github.com/CocoGiogio/RESTONETWORK)** – Infrastructure management and network configuration project.
-
-## 🎓 Academic & Major Projects
-* **MSPR-1-PTEROPARK** – Full-scale system infrastructure design for a global-themed park.
-* **WORKSHOP-M2** – Master’s degree advanced technical workshops and research.
+I build automated tools to secure and audit critical infrastructure. My work focuses on bridging the gap between **Network Administration** and **Offensive Security**.
 
 ---
 
-## 🛠️ Technical Stack
-* **Languages:** Python, Bash, HTML/CSS.
-* **Network:** Cisco (IOS-XE/NX-OS), Fortinet (FortiOS), F5 BIG-IP.
-* **Tools:** Git, Linux Hardening, Web Scraping (Auditing), Vulnerability Analysis.
+## 🌐 My Portfolio
+> **View my full interactive portfolio here:** > 👉 **[cocogiogio.github.io](https://cocogiogio.github.io)**
 
 ---
 
-## 📈 GitHub Stats
-![CocoGiogio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CocoGiogio&show_icons=true&theme=transparent)
+## 🚀 Featured Tools: The Aegis Security Suite
+
+I am developing a suite of Python-based tools designed for professional infrastructure auditing and security reconnaissance:
+
+### [Aegis-ReconScope 🛡️🔭](https://github.com/CocoGiogio/Aegis-ReconScope)
+**Automated Offensive Reconnaissance Framework**
+* **Purpose:** Performs deep network discovery and web-surface fuzzing.
+* **Key Features:** Nmap service mapping, CVE vulnerability detection, and sensitive directory discovery.
+* **Reporting:** Generates high-quality, executive-level PDF reports.
+
+### [Aegis-SentinelScanner 🛡️🛰️](https://github.com/CocoGiogio/Aegis-SentinelScanner)
+**Network Firmware Compliance & Audit Tool**
+* **Purpose:** Proactively monitors network assets (Fortinet, Cisco, F5) for firmware risks.
+* **Key Features:** Intelligent maintenance path mapping and automated PSIRT scraping.
+* **Reporting:** Produces clean, color-coded HTML dashboards for infrastructure status.
+
+---
+
+## 🛠️ Technical Expertise
+
+* **Languages:** Python (Automation, Scraping, Security Scripting), Bash.
+* **Infrastructure:** Cisco (IOS-XE/NX-OS), Fortinet (FortiOS), F5 (BIG-IP).
+* **Security:** Reconnaissance (Nmap/NSE), Vulnerability Assessment, Web Fuzzing.
+* **Auditing:** Professional PDF & HTML Reporting for technical and non-technical stakeholders.
+
+---
+
+## 📈 Activity & Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=CocoGiogio&show_icons=true&theme=tokyonight" alt="CocoGiogio's GitHub Stats" />
+</p>
+
+---
+
+### 📩 Let's Connect
+* **Website:** [cocogiogio.github.io](https://cocogiogio.github.io)
+* **GitHub:** [CocoGiogio](https://github.com/CocoGiogio)
