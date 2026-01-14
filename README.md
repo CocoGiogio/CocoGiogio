@@ -58,7 +58,6 @@ I'm **CocoGiogio**, a technical specialist passionate about the intersection of 
 
 - **Portfolio:** [cocogiogio.github.io](https://cocogiogio.github.io)
 - **GitHub:** [CocoGiogio](https://github.com/CocoGiogio)
-- **LinkedIn:** *[Add your link here]*
 
 ---
 
