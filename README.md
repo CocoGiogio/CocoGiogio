@@ -39,11 +39,13 @@ I am developing a suite of Python-based tools designed for professional infrastr
 ---
 
 ## 📈 Activity & Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=CocoGiogio&show_icons=true&theme=tokyonight&count_private=true" alt="CocoGiogio's GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CocoGiogio&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
-</p>
+
+![Python](https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)
+![Security](https://img.shields.io/badge/Focus-Cybersecurity_%26_Network-red?style=for-the-badge)
+
+* **Current Projects:** 2 Active (Aegis Suite)
+* **Main Stack:** Python, Bash, Nmap, Cisco/Fortinet Auditing
 
 ---
 
