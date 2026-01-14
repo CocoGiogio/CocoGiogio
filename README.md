@@ -1,54 +1,67 @@
-# Hi, I'm CocoGiogio 👋 
+<div align="center">
+  <h1>Hi there, I'm CocoGiogio 👋</h1>
+  <h3>🛡️ Cybersecurity Specialist | 🌐 Network Automation Enthusiast</h3>
+</div>
 
-### 🛡️ Cybersecurity & Network Automation Specialist
-
-I build automated tools to secure and audit critical infrastructure. My work focuses on bridging the gap between **Network Administration** and **Offensive Security**.
-
----
-
-## 🌐 My Portfolio
-> **View my full interactive portfolio here:** > 👉 **[cocogiogio.github.io](https://cocogiogio.github.io)**
+<br>
 
 ---
 
-## 🚀 Featured Tools: The Aegis Security Suite
+### 🌱 About Me
 
-I am developing a suite of Python-based tools designed for professional infrastructure auditing and security reconnaissance:
-
-### [Aegis-ReconScope 🛡️🔭](https://github.com/CocoGiogio/Aegis-ReconScope)
-**Automated Offensive Reconnaissance Framework**
-* **Purpose:** Performs deep network discovery and web-surface fuzzing.
-* **Key Features:** Nmap service mapping, CVE vulnerability detection, and sensitive directory discovery.
-* **Reporting:** Generates high-quality, executive-level PDF reports.
-
-### [Aegis-SentinelScanner 🛡️🛰️](https://github.com/CocoGiogio/Aegis-SentinelScanner)
-**Network Firmware Compliance & Audit Tool**
-* **Purpose:** Proactively monitors network assets (Fortinet, Cisco, F5) for firmware risks.
-* **Key Features:** Intelligent maintenance path mapping and automated PSIRT scraping.
-* **Reporting:** Produces clean, color-coded HTML dashboards for infrastructure status.
+I'm **CocoGiogio**, a technical specialist passionate about the intersection of **Network Infrastructure** and **Offensive Security**. I focus on building automated tools to secure digital environments and streamline infrastructure auditing. Currently developing the **Aegis Security Suite**.
 
 ---
 
-## 🛠️ Technical Expertise
+### 💼 Tech Stack
 
-* **Languages:** Python (Automation, Scraping, Security Scripting), Bash.
-* **Infrastructure:** Cisco (IOS-XE/NX-OS), Fortinet (FortiOS), F5 (BIG-IP).
-* **Security:** Reconnaissance (Nmap/NSE), Vulnerability Assessment, Web Fuzzing.
-* **Auditing:** Professional PDF & HTML Reporting for technical and non-technical stakeholders.
+**Programming & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Network & Infrastructure**
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![F5](https://img.shields.io/badge/F5-ED1C24?style=for-the-badge&logo=f5&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4DAA91?style=for-the-badge&logo=ssh&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FFD700?style=for-the-badge&logo=domain-name-system&logoColor=black)
+
+**Cybersecurity Tools**
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ---
 
-## 📈 Activity & Stats
+### 🚀 Featured Projects (Aegis Suite)
 
-![Python](https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)
-![Security](https://img.shields.io/badge/Focus-Cybersecurity_%26_Network-red?style=for-the-badge)
-
-* **Current Projects:** 2 Active (Aegis Suite)
-* **Main Stack:** Python, Bash, Nmap, Cisco/Fortinet Auditing
+- **[Aegis-ReconScope](https://github.com/CocoGiogio/Aegis-ReconScope)**: An advanced offensive reconnaissance framework. It automates Nmap scans, CVE mapping, and web fuzzing to generate executive PDF reports.
+- **[Aegis-SentinelScanner](https://github.com/CocoGiogio/Aegis-SentinelScanner)**: A network compliance auditor that monitors firmware versions for Cisco, Fortinet, and F5 devices to ensure production stability.
+- **VulnScan-Pro**: A Python-based vulnerability scanner designed for rapid security posture assessment.
 
 ---
 
-### 📩 Let's Connect
-* **Website:** [cocogiogio.github.io](https://cocogiogio.github.io)
-* **GitHub:** [CocoGiogio](https://github.com/CocoGiogio)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CocoGiogio&show_icons=true&theme=tokyonight&count_private=true" alt="CocoGiogio's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CocoGiogio&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 How to Reach Me
+
+- **Portfolio:** [cocogiogio.github.io](https://cocogiogio.github.io)
+- **GitHub:** [CocoGiogio](https://github.com/CocoGiogio)
+- **LinkedIn:** *[Add your link here]*
+
+---
+
+<div align="center">
+  <i>"Automating security, one script at a time."</i>
+</div>
