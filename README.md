@@ -40,7 +40,9 @@ I am developing a suite of Python-based tools designed for professional infrastr
 
 ## 📈 Activity & Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=CocoGiogio&show_icons=true&theme=tokyonight" alt="CocoGiogio's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CocoGiogio&show_icons=true&theme=tokyonight&count_private=true" alt="CocoGiogio's GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CocoGiogio&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
 </p>
 
 ---
