@@ -1,46 +1,54 @@
 <div align="center">
-  <h1>Hi there, I'm CocoGiogio 👋</h1>
-  <h3>🛡️ Cybersecurity Specialist | 🌐 Network Automation Enthusiast</h3>
+  <h1>Hi there, I'm Giovane (CocoGiogio) 👋</h1>
+  <h3>🚀 Apprenti Ingénieur Réseau & Sécurité @ Capgemini</h3>
+  <p>Master of Science Cybersécurité @ EPSI | Spécialiste Cloud Infrastructure Services</p>
 </div>
 
 <br>
 
 ---
 
-### 🌱 About Me
+### 🛡️ About Me
 
-I'm **CocoGiogio**, a technical specialist passionate about the intersection of **Network Infrastructure** and **Offensive Security**. I focus on building automated tools to secure digital environments and streamline infrastructure auditing. Currently developing the **Aegis Security Suite**.
+Je suis un apprenti passionné 💻 spécialisé dans l'**administration système, réseau et sécurité** 🔒. Actuellement chez **Capgemini** au sein du service Cloud Infrastructure, je protège les infrastructures critiques contre les menaces tout en automatisant les processus d'audit.
+
+- 🏗️ **Current Role:** Apprenti Ingénieur Réseau & Sécurité intervenant sur des environnements clients de grande envergure.
+- ⚙️ **Expertise:** Équipes Projet (intégration) & Opérationnelle (gestion d'incidents, méthodes Agile).
+- 🔐 **Past Projects:** Mise en place d'un SIEM chez NATEIS pour Pathé Cinémas (mondial).
+- 🎓 **Education:** MSc Expert en Cybersécurité (EPSI) & BUT Réseaux & Télécoms labellisé **SecNumEdu**.
 
 ---
 
-### 💼 Tech Stack
+### 💼 Tech Stack & Certifications
+
+**Networking & Cloud**
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white) 
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white) 
+![F5](https://img.shields.io/badge/F5-ED1C24?style=for-the-badge&logo=f5&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-032D26?style=for-the-badge&logo=servicenow&logoColor=white)
+![VPN](https://img.shields.io/badge/IPsec_VPN-Shield-blue?style=for-the-badge)
 
 **Programming & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Network & Infrastructure**
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![F5](https://img.shields.io/badge/F5-ED1C24?style=for-the-badge&logo=f5&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4DAA91?style=for-the-badge&logo=ssh&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-FFD700?style=for-the-badge&logo=domain-name-system&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Cybersecurity Tools**
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Security-red?style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+> **Official Certifications:** > 🎓 **Cisco:** CCNA (ENSA, SRWE, ITN) & Cyber Threat Management  
+> 🎓 **Fortinet:** Certified Associate & Fundamentals Cybersecurity | FortiGate 7.4 Operator  
+> 🎓 **ServiceNow:** Micro-Certification Welcome to ServiceNow
 
 ---
 
-### 🚀 Featured Projects (Aegis Suite)
+### 🚀 Featured Projects (Aegis Security Suite)
 
-- **[Aegis-ReconScope](https://github.com/CocoGiogio/Aegis-ReconScope)**: An advanced offensive reconnaissance framework. It automates Nmap scans, CVE mapping, and web fuzzing to generate executive PDF reports.
-- **[Aegis-SentinelScanner](https://github.com/CocoGiogio/Aegis-SentinelScanner)**: A network compliance auditor that monitors firmware versions for Cisco, Fortinet, and F5 devices to ensure production stability.
-- **VulnScan-Pro**: A Python-based vulnerability scanner designed for rapid security posture assessment.
+- **[Aegis-ReconScope](https://github.com/CocoGiogio/Aegis-ReconScope)**: Offensive reconnaissance framework (Nmap automation, CVE mapping, Web fuzzing).
+- **[Aegis-SentinelScanner](https://github.com/CocoGiogio/Aegis-SentinelScanner)**: Network compliance auditor for Cisco, Fortinet, and F5 (PSIRT monitoring).
+- **VulnScan-Pro**: Rapid vulnerability assessment scanner written in Python.
 
 ---
 
@@ -54,13 +62,11 @@ I'm **CocoGiogio**, a technical specialist passionate about the intersection of 
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Connect with me
 
+- **LinkedIn:** [linkedin.com/in/giovane-bomme](https://www.linkedin.com/in/giovane-bomme)
 - **Portfolio:** [cocogiogio.github.io](https://cocogiogio.github.io)
-- **GitHub:** [CocoGiogio](https://github.com/CocoGiogio)
-
----
 
 <div align="center">
-  <i>"Automating security, one script at a time."</i>
+  <i>"Protéger, Auditer, Automatiser : Sécuriser les infrastructures de demain."</i>
 </div>
