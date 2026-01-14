@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Giovane (CocoGiogio) 👋</h1>
+  <h1>Hi there, I'm CocoGiogio 👋</h1>
   <h3>🚀 Network & Security Engineer Apprentice @ Capgemini</h3>
   <p>MSc in Cybersecurity @ EPSI | Cloud Infrastructure Services Specialist</p>
 </div>
@@ -64,7 +64,6 @@ I am a passionate **Network & Security apprentice** 💻 dedicated to protecting
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/giovane-bomme](https://www.linkedin.com/in/giovane-bomme)
 - **Portfolio:** [cocogiogio.github.io](https://cocogiogio.github.io)
 
 <div align="center">
